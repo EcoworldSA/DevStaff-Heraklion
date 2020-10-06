@@ -4,6 +4,14 @@ In this section you can find some job openings listed by our community members. 
 
 __Be advised that Job Openings older than 3 months will be removed for the sake of keeping current. Feel free to repost.__
 
+## Mid-Level - Senior Front-End Developer@ [Ecoworld Sa - Greekferries Club] (https://www.greekferries.gr/)
+
+Ecoworld Sa is looking for Mid-Level - Senior Front-End Developers to join our IT team.
+
+[Read more & Apply here](https://greekferries-club.gr/company/work-places/)
+
+* PubDate: 06/10/2020
+
 ## Senior front-end Software Engineer (Chania/Remote) @ [SKY express](https://www.skyexpress.gr)
 
 SKY express is currently seeking for an experienced front-end software engineer to join our development lab in Chania. Part of your job will be to participate in the design and implementation and testing of highly engaging internal as well as customer facing web applications. The right candidate should be passionate, self-motivated, and willing to collaborate closely with non-technical teams.
